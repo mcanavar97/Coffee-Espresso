@@ -12,3 +12,4 @@ Responsive design.
 - JavaScript: Dynamic properties and interactions.
 
 # Preview
+![](coffee-espresso-gif.gif)()
